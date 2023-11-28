@@ -1,0 +1,52 @@
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+th, td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    background-color: #FDC894;
+}
+
+th {
+    background-color: wheat;
+}
+.elhelyzes {
+
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.td {
+        border: 1px solid #ddd;
+        padding: 8px;
+        text-align: left;
+        background-color: #f2f2f2;
+    }
+body{
+    background-color: #C5C599;
+}
+h2 {
+    color: #1E90FF;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+
+
+
+

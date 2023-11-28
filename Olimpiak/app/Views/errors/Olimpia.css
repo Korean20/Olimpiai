@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #C5C599; /* Háttérszín beállítása */
+}
+
+h2 {
+    color: #333;
+}
+
+p {
+    color: #666;
+}
+
+.review-section {
+    margin-top: 20px;
+}
+
+.hidden {
+    display: none;
+}
+
+/* Az olimpia2018.css-ből származó stílusok */
+
+.bg-fej {
+    background-image: url('teli_olimpia.png'); /* Háttérkép beállítása */
+}
+
+.bg-torzs {
+    background-color: #C5C599; /* Háttérszín beállítása */
+}
